@@ -1,0 +1,10 @@
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+--------------------Made by ServerCopMug#0392--------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+1. Download the script here: 
+2. Extract the file
+3. Drag the file called "servercopmughelp" into your servers resource folder
+4. Add "start servercopmughelp" into your server.cfg  
