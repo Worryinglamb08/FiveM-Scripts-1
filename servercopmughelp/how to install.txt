@@ -8,3 +8,6 @@
 2. Extract the file
 3. Drag the file called "servercopmughelp" into your servers resource folder
 4. Add "start servercopmughelp" into your server.cfg  
+
+
+screenshot: https://gyazo.com/5b516fcde6d9ab6eaaaf8151681de007
